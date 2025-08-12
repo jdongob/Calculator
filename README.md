@@ -1,6 +1,8 @@
 # Calculator
-Create an easy way to use React Hooks in functional components
+Create an easy way to use React Hooks in functional components.
 
-# react-hook-mathjs
+# 
 External library install
+react-hook-mathjs
+
 npm install mathjs
